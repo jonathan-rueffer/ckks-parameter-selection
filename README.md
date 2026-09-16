@@ -4,7 +4,7 @@ This project presents an automated, data-driven tool for selecting parameters in
 
 The tool analyzes both dataset characteristics and model behavior to generate and evaluate candidate parameter configurations, providing users with a trade-off analysis between runtime, precision, and security.
 
-This repository corresponds with the work done in a 2026 Senior Indepedent Study Thesis @ The College of Wooster.
+This repository is part of the work done in a 2026 Senior Indepedent Study Thesis @ The College of Wooster ([PDF](docs/RuefferJonathan_SeniorIS.pdf)).
 
 ---
 
